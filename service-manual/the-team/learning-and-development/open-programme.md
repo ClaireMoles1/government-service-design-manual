@@ -32,9 +32,11 @@ breadcrumbs:
 
 #Who should take part
 
-These 3 days contain specialist modules to help you succeed and improve in particular areas of the [Digital by Default Service Standard](/service-manual/digital-by-default).
+These days contain specialist modules to help you succeed and improve in particular areas of the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
-Unless already very familiar with digital in government, participants should complete either the [specialist digital foundation day](/service-manual/the-team/learning-and-development/foundation-day) or the [service manager induction](/service-manual/the-team/learning-and-development/service-manager-induction) before taking part in the open programme.
+These days are now encompassed within the [service manager induction](/service-manual/the-team/learning-and-development/service-manager-induction)programme.
+
+Unless already very familiar with digital in government, other participants should complete the [specialist digital foundation day](/service-manual/the-team/learning-and-development/foundation-day) before taking part in the open programme.
 
 All sessions will run at a central London location.
 
@@ -134,5 +136,7 @@ We need to know that users of digital services are who they say they are. In thi
 
 #Request a place
 
-The GDS Skills Team will invite all service manager induction and foundation day participants to book their places on the open programme. If you have not completed either of these, but are very familiar with digital in government and wish to book straight onto the open programme, please contact the Skills Team for an invitation: [digital.academy@dwp.gsi.gov.uk](mailto:digital.academy@dwp.gsi.gov.uk)
+All service manager induction and foundation day participants will be invited to book their places on the open programme. If you have not completed either of these, but are very familiar with digital in government and wish to book straight onto the open programme, please contact the Skills Team for an invitation: [digital.academy@dwp.gsi.gov.uk](mailto:digital.academy@dwp.gsi.gov.uk)
+
+Please note the 3 days outlined above, have now be redesigned and are now covered across 2 days.  For advise on which days to attend to suit your needs, please contact [digital.academy@dwp.gsi.gov.uk](mailto:digital.academy@dwp.gsi.gov.uk)
 
